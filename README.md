@@ -31,6 +31,13 @@ You can download the latest version of icons here:
 
 Default templates for SAP open source repositories, including LICENSE, .reuse/dep5, Code of Conduct, etc... All repositories on github.com/SAP will be created based on this template.
 
+## List of all reference architures 
+
+<!-- dc-ref-arch-start -->
+[Business Data Fabric}(/data-analytics/data-management/README.md)
+
+<!-- dc-ref-arch-end -->
+
 ## Support, Feedback, Contributing
 
 This project is open to feature requests/suggestions, bug reports etc. via [GitHub issues](https://github.com/SAP/ap-btp-reference-architectures/issues). Contribution and feedback are encouraged and always welcome. For more information about how to contribute, the project structure, as well as additional contribution information, see our [Contribution Guidelines](CONTRIBUTING.md).
