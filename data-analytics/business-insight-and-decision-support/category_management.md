@@ -43,15 +43,17 @@ With a data federation architecture, customers can leave data in its source syst
 <!-- dc-ref-arch-detail-page-end -->
 
 ### BTP services / SAP solutions
-<!-- dc-ref-arch-resources-start -->
+<!-- dc-ref-arch-services-start -->
 [SAP Analytics Cloud](https://discovery-center.cloud.sap/serviceCatalog/sap-analytics-cloud?region=all)
 
+[SAP Datasphere](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/sap-datasphere?region=all)
+<!-- dc-ref-arch-services-start -->
+<!-- dc-ref-arch-resources-start -->
 [SAP Datasphere](https://www.sap.com/germany/products/technology-platform/datasphere.html)
 
 [Google Cloud Platform BigQuery](https://cloud.google.com/bigquery)
-
-[SAP Datasphere](https://www.sap.com/germany/products/technology-platform/datasphere.html)
 <!-- dc-ref-arch-resources-end -->
+
 ### References
 <!-- dc-ref-arch-related-missions-start -->
 [Enable Category Management with BigQuery and SAP Datasphere | SAP Discovery Center](https://discovery-center.cloud.sap/missiondetail/3666/3709/)
