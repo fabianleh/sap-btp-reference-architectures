@@ -47,7 +47,7 @@ With a data federation architecture, customers can leave data in its source syst
 [SAP Analytics Cloud](https://discovery-center.cloud.sap/serviceCatalog/sap-analytics-cloud?region=all)
 
 [SAP Datasphere](https://discovery-center.cloud.sap/protected/index.html#/serviceCatalog/sap-datasphere?region=all)
-<!-- dc-ref-arch-services-start -->
+<!-- dc-ref-arch-services-end -->
 <!-- dc-ref-arch-resources-start -->
 [SAP Datasphere](https://www.sap.com/germany/products/technology-platform/datasphere.html)
 
