@@ -3,7 +3,7 @@
         "id": "ref-arch-category-management",
         "name": "Category Management",
         "shortDescription": "Analyze category performance for digital/online sales by combining external source systems like Google Analytics and sales, discounts, and stock data from SAP systems.",
-        "archDiagramLink": "images/CategoryManagement.png",
+        "archDiagramLink": "https://github.com/SAP/sap-btp-reference-architectures/blob/main/data-analytics/business-insight-and-decision-support/images/CategoryManagement.png",
         "tags": "Data Analytics, Cross, Cloud",
         "category": "Data Analytics",
         "labels": "Data Analytics, Cross, Cloud"
@@ -53,8 +53,8 @@ With a data federation architecture, customers can leave data in its source syst
 [SAP Datasphere](https://www.sap.com/germany/products/technology-platform/datasphere.html)
 <!-- dc-ref-arch-resources-end -->
 ### References
-<!-- dc-ref-arch-resources-start -->
+<!-- dc-ref-arch-related-missions-start -->
 [Enable Category Management with BigQuery and SAP Datasphere | SAP Discovery Center](https://discovery-center.cloud.sap/missiondetail/3666/3709/)
 
 [Integrate Google BigQuery and SAP Datasphere](https://discovery-center.cloud.sap/missiondetail/3409/3449/)
-<!-- dc-ref-arch-services-end -->
+<!-- dc-ref-arch-related-missions-end -->
