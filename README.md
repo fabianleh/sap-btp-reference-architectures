@@ -31,7 +31,7 @@ You can download the latest version of icons here:
 
 Default templates for SAP open source repositories, including LICENSE, .reuse/dep5, Code of Conduct, etc... All repositories on github.com/SAP will be created based on this template.
 
-## List of all reference architures 
+## List of all reference architectures 
 
 <!-- dc-ref-arch-start -->
 [Business Data Fabric}(/data-analytics/data-management/README.md)
