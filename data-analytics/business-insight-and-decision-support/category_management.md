@@ -3,7 +3,7 @@
         "id": "ref-arch-category-management",
         "name": "Category Management",
         "shortDescription": "Analyze category performance for digital/online sales by combining external source systems like Google Analytics and sales, discounts, and stock data from SAP systems.",
-        "archDiagramLink": "https://github.com/SAP/sap-btp-reference-architectures/blob/main/data-analytics/business-insight-and-decision-support/images/CategoryManagement.png",
+        "archDiagramLink": "images/CategoryManagement.png",
         "tags": "Data Analytics, Cross, Cloud",
         "category": "Data Analytics",
         "labels": "Data Analytics, Cross, Cloud"
