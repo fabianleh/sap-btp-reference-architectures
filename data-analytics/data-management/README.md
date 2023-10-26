@@ -20,6 +20,10 @@ Getting data from business applications is a significant challenge, the best app
 
 [SAP Datasphere](https://discovery-center.cloud.sap/#/serviceCatalog/a62771ea-b7bf-4746-9d4b-fec20ade5281)
 
+[SAP Analytics Cloud](https://discovery-center.cloud.sap/serviceCatalog/sap-analytics-cloud)
+
+[SAP HANA Cloud](https://discovery-center.cloud.sap/serviceCatalog/sap-hana-cloud)
+
 ### References
 
 [A Deeper Look Into How SAP Datasphere Enables a Business Data Fabric](https://news.sap.com/2023/03/sap-datasphere-business-data-fabric/)
